@@ -20,13 +20,15 @@
 
 <h2 id="how-to-submit">How to submit:</h2>
 
-### GitHuB account
+### GitHub account
 
-For the time being you will need to make a GitHub.com account to post an issue to this repository. You can do so here: https://github.com/join
+For the time being, you will need to make a GitHub.com account to post an issue to this repository. You can do so here: https://github.com/join
 
 ### Steps to submit an idea
 
-Ideas are submitted as "issues", this will create a seperate page where an idea can be discussed. To organize the ideas, we ask you do submit the idea using our idea template, which is discussed below.
+* Ideas are submitted as "issues", this will create a seperate page where an idea can be discussed.   
+* To organize the ideas, we ask you do submit the idea using our idea template, which is discussed below.  
+* You can submit an issue by clicking this link: [submit issue](https://github.com/CoronavirusArmy/idea-tracker/issues/new/choose)
 
 ### Idea template
 
