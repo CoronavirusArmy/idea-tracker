@@ -30,7 +30,7 @@ Ideas are submitted as "issues", this will create a seperate page where an idea 
 
 ### Idea template
 
-The idea template is located here: [issue template](ISSUE_TEMPLATE.MD)
+The idea template is located here: [issue template](.github/ISSUE_TEMPLATE/idea-template.md)
 
 <h2 id="how-to-contribute">How to contribute:</h2>
 
