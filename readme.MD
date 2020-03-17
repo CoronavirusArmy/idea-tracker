@@ -20,7 +20,17 @@
 
 <h2 id="how-to-submit">How to submit:</h2>
 
-### **TBD**
+### GitHuB account
+
+For the time being you will need to make a GitHub.com account to post an issue to this repository. You can do so here: https://github.com/join
+
+### Steps to submit an idea
+
+Ideas are submitted as "issues", this will create a seperate page where an idea can be discussed. To organize the ideas, we ask you do submit the idea using our idea template, which is discussed below.
+
+### Idea template
+
+The idea template is located here: ... 
 
 <h2 id="how-to-contribute">How to contribute:</h2>
 
