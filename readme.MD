@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>CoronaVirusArmy</strong> idea tracker repository <br> <br>
-  <span><strong>Website:</strong> [https://coronavirusarmy.org/](https://coronavirusarmy.org/)</span><br>
+   <span><strong>Website:</strong> <a href="https://coronavirusarmy.org/">Coronavirusarmy.org</a></span><br>
 </p>
 
 ## Table of contents
